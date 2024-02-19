@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "282844148807",
+    "project_id": "chatppe-f18df",
+    "storage_bucket": "chatppe-f18df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282844148807:android:66adcca37df8b3e4082d62",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1x2J-aOsbOVU3jUk_64tawyeHRxs1jRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
